@@ -1,1 +1,14 @@
-["weather.coffee","base64.coffee"]
+[
+  "weather.coffee",
+  "base64.coffee",
+  "corgime.coffee",
+  "flip.coffee",
+  "hackernews.coffee",
+  "imdb.coffee",
+  "karma.coffee",
+  "kittens.coffee",
+  "news.coffee",
+  "npm.coffee",
+  "pomodoro.coffee",
+  "xkcd.coffee"
+]
