@@ -20,14 +20,15 @@
     "hubot-slack": "^4.0.0",
     "hubot-youtube": "^0.1.2",
     "nodepie": "^0.6.6",
-    "snyk": "^1.42.6"
+    "snyk": "^1.85.0"
   },
   "engines": {
     "node": "0.10.x"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "npm run snyk-protect",
+    "prepare": "npm run snyk-protect"
   },
   "snyk": true
 }
