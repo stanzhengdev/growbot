@@ -5,7 +5,7 @@
   "author": "Stanley Zheng <dev.stanzheng@gmail.com>",
   "description": "Grow's helpful robot",
   "dependencies": {
-    "hubot": "^2.11.0",
+    "hubot": "^3.1.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.2",
     "hubot-google-translate": "^0.1.0",
@@ -20,7 +20,7 @@
     "hubot-slack": "^4.0.0",
     "hubot-youtube": "^0.1.2",
     "nodepie": "^0.6.6",
-    "snyk": "^1.42.6"
+    "snyk": "^1.147.4"
   },
   "engines": {
     "node": "0.10.x"
