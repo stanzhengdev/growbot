@@ -20,7 +20,7 @@
     "hubot-slack": "^4.0.0",
     "hubot-youtube": "^0.1.2",
     "nodepie": "^0.6.6",
-    "snyk": "^1.42.6"
+    "snyk": "^1.189.0"
   },
   "engines": {
     "node": "0.10.x"
